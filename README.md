@@ -1,9 +1,12 @@
-更新：https://xie-dd.github.io/posts/1745/
+## 更新
+https://xie-dd.github.io/posts/1745/
 
--------------------------------------------------------------------
+## 使用指南
+1. 下载项目
+2. 修改 yuque_download_xdd.py 文件中的 token
+3. 运行 yuque_download_xdd.py 即可
 
-
-
+## 代码开发指南
 
 ### 获取语雀Token
 网页端登陆语雀---点击头像---账户设置---Token
